@@ -1,1 +1,1 @@
-# All-CSS-Shit
+# All-CSS
